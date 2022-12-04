@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 2648c03a52a40b848a739c9f306109ab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DamWood_02
+    100002: DamWood_03
+    100004: //RootNode
+    100006: Flower1
+    100008: Flower10
+    100010: Flower2
+    100012: Flower3
+    100014: Flower4
+    100016: Flower5
+    100018: Flower6
+    100020: Flower7
+    100022: Flower8
+    100024: Flower9
+    100026: joint1
+    100028: joint10
+    100030: joint11
+    100032: joint12
+    100034: joint13
+    100036: joint14
+    100038: joint15
+    100040: joint16
+    100042: joint17
+    100044: joint2
+    100046: joint3
+    100048: joint4
+    100050: joint5
+    100052: joint6
+    100054: joint7
+    100056: joint8
+    100058: joint9
+    100060: LeavePaw1
+    100062: LeavePaw2
+    100064: LeavePaw3
+    100066: LeavePaw4
+    100068: LeavePaw5
+    100070: LeavePaw6
+    100072: LeavePaw7
+    100074: Mashrooms_02
+    100076: Mashrooms_03
+    100078: pSphere1
+    100080: Stick_01
+    100082: Stick_02
+    400000: DamWood_02
+    400002: DamWood_03
+    400004: //RootNode
+    400006: Flower1
+    400008: Flower10
+    400010: Flower2
+    400012: Flower3
+    400014: Flower4
+    400016: Flower5
+    400018: Flower6
+    400020: Flower7
+    400022: Flower8
+    400024: Flower9
+    400026: joint1
+    400028: joint10
+    400030: joint11
+    400032: joint12
+    400034: joint13
+    400036: joint14
+    400038: joint15
+    400040: joint16
+    400042: joint17
+    400044: joint2
+    400046: joint3
+    400048: joint4
+    400050: joint5
+    400052: joint6
+    400054: joint7
+    400056: joint8
+    400058: joint9
+    400060: LeavePaw1
+    400062: LeavePaw2
+    400064: LeavePaw3
+    400066: LeavePaw4
+    400068: LeavePaw5
+    400070: LeavePaw6
+    400072: LeavePaw7
+    400074: Mashrooms_02
+    400076: Mashrooms_03
+    400078: pSphere1
+    400080: Stick_01
+    400082: Stick_02
+    2300000: DamWood_02
+    2300002: DamWood_03
+    2300004: Flower10
+    2300006: Mashrooms_02
+    2300008: Mashrooms_03
+    2300010: pSphere1
+    2300012: Stick_01
+    2300014: Stick_02
+    3300000: DamWood_02
+    3300002: DamWood_03
+    3300004: Flower10
+    3300006: Mashrooms_02
+    3300008: Mashrooms_03
+    3300010: pSphere1
+    3300012: Stick_01
+    3300014: Stick_02
+    4300000: Mashrooms_02
+    4300002: pSphere1
+    4300004: LeavePaw1
+    4300006: LeavePaw2
+    4300008: Stick_01
+    4300010: Flower1
+    4300012: Flower2
+    4300014: Flower3
+    4300016: Flower4
+    4300018: Flower5
+    4300020: LeavePaw3
+    4300022: LeavePaw4
+    4300024: Flower6
+    4300026: Flower7
+    4300028: LeavePaw5
+    4300030: LeavePaw6
+    4300032: Flower8
+    4300034: Flower9
+    4300036: LeavePaw7
+    4300038: Mashrooms_03
+    4300040: Stick_02
+    4300042: Flower10
+    4300044: DamWood_03
+    4300046: DamWood_02
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Flower1
+    13700002: Flower2
+    13700004: Flower3
+    13700006: Flower4
+    13700008: Flower5
+    13700010: Flower6
+    13700012: Flower7
+    13700014: Flower8
+    13700016: Flower9
+    13700018: LeavePaw1
+    13700020: LeavePaw2
+    13700022: LeavePaw3
+    13700024: LeavePaw4
+    13700026: LeavePaw5
+    13700028: LeavePaw6
+    13700030: LeavePaw7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeaverDam_Wood
+    second: {fileID: 2100000, guid: 68565c9f856b57442b894a8f80423f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bench
+    second: {fileID: 2100000, guid: 489670e016943a1449af28da3b582b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower_big
+    second: {fileID: 2100000, guid: a3114f933c60ba745ae5b26aaaaa0342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower_small
+    second: {fileID: 2100000, guid: 816520a4dc32fe84092502d05e5cdb1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: e38c709a752305b49a75c8db75b5c7f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mushrooms
+    second: {fileID: 2100000, guid: 63be12fc0d8e639478011f900bec48fe, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
